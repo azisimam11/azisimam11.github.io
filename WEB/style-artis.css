@@ -1,0 +1,51 @@
+body {
+background-image: url(bg.jpg);
+}
+
+.kotak {
+border: 5px;
+border-style: solid;
+border-color: grey;
+border-radius: 50px 50px 45px 45px;
+width: 400px;
+height: 700px;
+background-color: black;
+}
+
+td, th{
+border: 1px;
+border-style: solid;
+border-color: grey;
+background-color: lightblue;
+font-size: 15px;
+}
+
+.bingkai {
+border-radius: 20px 20px 20px 20px;
+background-color: lightblue;
+width: 400px;
+height: 400px;
+}
+
+.oda {
+width: 350px;
+height: 350px;
+border-radius: 20px 20px 20px 20px;
+}
+
+.nama {
+border-radius: 45px 45px 20px 20px;
+}
+
+.back {
+border-radius: 0px 0px 60px 60px;
+}
+
+.lah {
+border-radius: 20px 0px 0px 0px;
+}
+
+.tg {
+border-radius: 0px 20px 0px 0px;
+}
+
